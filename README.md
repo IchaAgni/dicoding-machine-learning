@@ -23,7 +23,7 @@ Untuk menjawab pertanyaan di atas, maka akan dijabarkan sebagai berikut:
 - Melakukan evaluasi terhadap metrik dari model *Machine Learning* tersebut.  
 
 ## Data Understanding
-Berikut merupakan informasi dari dataset yang digunakan:
+Berikut merupakan informasi dari dataset yang digunakan
 
 |           Jenis         |  Keterangan |
 | ----------------------- | ----------- |
